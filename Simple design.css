@@ -1,0 +1,17 @@
+CTA button 
+.CTA1{
+
+    background-color:#4E47E2; 
+    border-radius: 10px; 
+    padding: 20px 35px; 
+    font-weight: bold; 
+    color: white;
+    font-size: 23px;
+ }
+ /* *{
+margin: 0;
+padding: 0;
+box-sizing: Border-box;
+text-decoration: none;
+} */
+  
